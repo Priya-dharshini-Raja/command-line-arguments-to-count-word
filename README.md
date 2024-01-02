@@ -6,20 +6,28 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
+Import sys
 
 ### Step 2: 
+Open file using open().
  
 ### Step 3: 
+Use the loop
 
 ### Step 4:  
+Use len to count number of words
 
-### Step 5: 
-
-### Step 6: 
+### Step 5:
+Give print 
 
 ## PROGRAM:
 
+
+
 ### OUTPUT:
+![output](<Screenshot 2024-01-02 221607.png>)
+
+![output](<command 2 ss.png>)
 
 
 
